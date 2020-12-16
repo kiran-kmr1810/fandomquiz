@@ -1,0 +1,32 @@
+[
+    {
+        "1": "A functional dependency is a relationship between or among ?",
+        "2": "If one attribute is determinant of second, which in turn is determinant of third, \nthen the relation cannot be:",
+        "3": "In the __________ normal form, a composite attribute is converted to individual attributes."
+    },
+    {
+        "1": {
+            "a": "Entities",
+            "b": "Rows",
+            "c": "Attributes",
+            "d": "Tables"
+        },
+        "2": {
+            "a": "Well-structured",
+            "b": "1NF",
+            "c": "2NF",
+            "d": "3NF"
+        },
+        "3": {
+            "a": "first",
+            "b": "second",
+            "c": "third",
+            "d": "fourth"
+        }    
+    },
+    {
+        "1": "Attributes",
+        "2": "3NF",
+        "3": "first"
+    }
+]
